@@ -2,6 +2,7 @@
     "full_name": "Robert Melrose",
     "email": "robert.r.melrose@seagate.com",
     "project_name": "CSP_Project",
+    "repo_name": "csp_project",
     "project_description": "A simple python project for CSP users.",
     "release_date": "2014-01-01",
     "year": "2014",
